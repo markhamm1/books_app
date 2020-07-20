@@ -1,0 +1,6 @@
+{
+  id: book.id,
+  name: book.name,
+  isbn: book.isbn,
+  genre: book.genre
+}
